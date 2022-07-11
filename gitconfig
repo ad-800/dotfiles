@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = adalynecummins@gmail.com
+	name = Adalyne Cummins
